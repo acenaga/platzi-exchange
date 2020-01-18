@@ -10,7 +10,7 @@
             :alt="asset.name"
             class="w-20 h-20 mr-5"
           />
-          <h1 class="text-5xl">
+          <h1 class="text-5xl"> 
             {{ asset.name }}
             <small class="sm:mr-2 text-gray-500">{{ asset.symbol }}</small>
           </h1>
